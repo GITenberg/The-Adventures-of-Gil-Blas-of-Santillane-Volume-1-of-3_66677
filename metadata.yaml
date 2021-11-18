@@ -1,0 +1,51 @@
+_repo: The-Adventures-of-Gil-Blas-of-Santillane-Volume-1-of-3_66677
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: https://en.wikipedia.org/wiki/George_Saintsbury
+  translator:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollett, Tobias George
+    - Smollet, T. (Tobias)
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: https://en.wikipedia.org/wiki/Tobias_Smollett
+creator:
+  author:
+    agent_name: Le Sage, Alain René
+    aliases:
+    - Sage, Alain-René le
+    - Sage, Alain René Le
+    - Le Sage, Alain Rene
+    - Lesage, Alain-René
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alain-Ren%C3%A9_Lesage
+    - https://fr.wikipedia.org/wiki/Alain-Ren%C3%A9_Lesage
+description: ''
+gutenberg_issued: '2021-11-06'
+identifiers:
+  gutenberg: '66677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Blas, Gil (Fictitious character) -- Fiction'
+- GITenberg
+title: The Adventures of Gil Blas of Santillane, Volume 1 (of 3)
+url: http://www.gutenberg.org/ebooks/66677
